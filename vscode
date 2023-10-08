@@ -1,2 +1,7 @@
-settings.jsonの開き方
-  ctrl+,
+settings.json
+  開き方
+    ctrl+,
+  エクスプローラーの並び順
+    sortorder
+  自動セーブ
+    autosave

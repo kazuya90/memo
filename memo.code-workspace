@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"editor.unicodeHighlight.includeComments": false,
+"explorer.sortOrder": "default","editor.glyphMargin": false}
+}
